@@ -5,3 +5,4 @@ __pycache__
 *.db
 *.pytest_cache
 C:\Users\vinay\Documents\Github\Deep-learning-Image-Classification-\data
+.gitattributes

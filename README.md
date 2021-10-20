@@ -1,4 +1,4 @@
-## Final Project Submision
+## Final Project Submission
 
 ## Pneumonia Detection
 
@@ -15,7 +15,11 @@ Data of nearly 5500 images is given either normal or having pneumonia.
 I use CNN to detect whether an X-ray image is normal or infected and predict the accuracy of the model created to detect pneumonia.
 
 ## Results
+Training accuracy of the best model
+<img src="images/training accuracy.png" width=80%>
 
+Marked Boundaries
+<img src="images/mark boundaries.png" width=80%>
 
 
 
